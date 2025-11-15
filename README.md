@@ -1,9 +1,4 @@
 # Python OOP Practicals
-
-This repository contains solutions for the "Object Oriented Programming Using Python" practical list.  
-Each practical is implemented as a separate, fully-commented Python script.  
-User input is taken wherever required.
-
 ## 📌 Contents
 
 | Practical No. | Topic |
